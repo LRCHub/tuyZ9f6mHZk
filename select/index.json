@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "traveling",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-03-13T13:55:00.958204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Traveling Man",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/01_Traveling_Man_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Traveling Riverside Blues",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/02_Traveling_Riverside_Blues_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Traveling Riverside Blues (Alternate Take)",
+      "artist": "Robert Johnson",
+      "has_synced": false,
+      "path": "select/03_Traveling_Riverside_Blues_(Alternate_Take)_Robert_Johnson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Traveling",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/04_Forever_Traveling_Europe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Traveling Through Time",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/05_Traveling_Through_Time_Rage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Traveling Song",
+      "artist": "Ryn Weaver",
+      "has_synced": true,
+      "path": "select/06_Traveling_Song_Ryn_Weaver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Traveling Riverside Blues",
+      "artist": "Robert Johnson",
+      "has_synced": true,
+      "path": "select/07_Traveling_Riverside_Blues_Robert_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Traveling Alone",
+      "artist": "Marit Larsen",
+      "has_synced": true,
+      "path": "select/08_Traveling_Alone_Marit_Larsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Traveling",
+      "artist": "Tennis",
+      "has_synced": true,
+      "path": "select/09_Traveling_Tennis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Traveling Light",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/10_Traveling_Light_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Traveling Through Scatter Petals / Hanakikou",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/11_Traveling_Through_Scatter_Petals___Hanakikou_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Traveling",
+      "artist": "Black River Delta",
+      "has_synced": false,
+      "path": "select/12_Traveling_Black_River_Delta.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Traveling Riverside Blues",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/13_Traveling_Riverside_Blues_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I've Got a Lot of Traveling to Do",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/14_I've_Got_a_Lot_of_Traveling_to_Do_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Traveling In The Lightnin' - 24-Bit Digitally Remastered 02",
+      "artist": "Warren Zevon",
+      "has_synced": true,
+      "path": "select/15_Traveling_In_The_Lightnin'_-_24-Bit_Digitally_Remastered_02_Warren_Zevon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Traveling in the Lightnin'",
+      "artist": "Warren Zevon",
+      "has_synced": true,
+      "path": "select/16_Traveling_in_the_Lightnin'_Warren_Zevon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Traveling Star",
+      "artist": "James Taylor",
+      "has_synced": false,
+      "path": "select/17_My_Traveling_Star_James_Taylor.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Traveling Star - Live at the Colonial Theatre",
+      "artist": "James Taylor",
+      "has_synced": false,
+      "path": "select/18_My_Traveling_Star_-_Live_at_the_Colonial_Theatre_James_Taylor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Traveling",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Traveling_宇多田_ヒカル.txt"
+    }
+  ]
+}
